@@ -4,5 +4,6 @@ int main()
     int s = 6;
     int b= 8;
     int c = a+b;
+    int e
     printf("%d",c);
 }
