@@ -3,7 +3,8 @@ int main()
 {
     int s = 6;
     int b= 8;
-    int c = a+b;
+    int c = s+b;
 
     printf("%d",c);
 }
+change from Developer 1 (sivapriya)
