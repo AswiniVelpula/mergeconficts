@@ -1,8 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    int a = 1;
-    int b= 3;
-    int c = a+b;
+    int s = 6;
+    int b= 8;
+    int c = s+b;
+
     printf("%d",c);
 }
+change from Developer 1 (sivapriya)
